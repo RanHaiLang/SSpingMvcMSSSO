@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSpringMvcMSso:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.rminfo.war">
+      <element id="artifact" artifact-name="SSpringMvcMSso:war exploded" />
+    </root>
+  </artifact>
+</component>
